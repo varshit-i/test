@@ -1,8 +1,8 @@
 {
   "profiles": [
-    { "id": 1, "contact_number": "1234567890", "name": "A","grp_id":2 },
-    { "id": 2, "contact_number": "1234567891", "name": "B","grp_id":2 },
-    { "id": 3, "contact_number": "1234567892", "name": "C","grp_id":2 },
-    { "id": 4, "contact_number": "1234567893", "name": "D","grp_id":2 }
+    { "id": 1, "contact_number": "1234567890", "name": "A"},
+    { "id": 2, "contact_number": "1234567891", "name": "B"},
+    { "id": 3, "contact_number": "1234567892", "name": "C"},
+    { "id": 4, "contact_number": "1234567893", "name": "D"}
   ]
 }
